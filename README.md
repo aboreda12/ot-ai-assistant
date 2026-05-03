@@ -4,7 +4,7 @@ An AI-powered plugin for [Open Ticket](https://github.com/open-discord-bots/open
 
 **Author:** [yow.sef]-discord [aboreda12]-github
 **Compatible with:** OTv4.0.x · OTv4.1.x · OTv4.2.x
-
+**Dependency:** npm install axios
 ---
 
 ## ✨ Features
