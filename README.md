@@ -1,6 +1,6 @@
 # 🤖 Server AI Chatbot — Open Ticket Plugin
 
-An AI-powered plugin for [Open Ticket](https://github.com/AlfieTeam/openticket) that adds a smart chatbot channel, automatic ticket summaries, and AI-assisted automod to your Discord server — all running on **free** models via OpenRouter.
+An AI-powered plugin for [Open Ticket](https://github.com/open-discord-bots/open-ticket) that adds a smart chatbot channel, automatic ticket summaries, and AI-assisted automod to your Discord server — all running on **free** models via OpenRouter.
 
 **Author:** [yow.sef]-discord [aboreda12]-github
 **Compatible with:** OTv4.0.x · OTv4.1.x · OTv4.2.x
@@ -21,7 +21,7 @@ An AI-powered plugin for [Open Ticket](https://github.com/AlfieTeam/openticket) 
 
 ## 📋 Requirements
 
-- [Open Ticket](https://github.com/AlfieTeam/openticket) v4.0.x – v4.2.x
+- [Open Ticket](https://github.com/open-discord-bots/open-ticket) v4.0.x – v4.2.x
 - Node.js 18+
 - An [OpenRouter](https://openrouter.ai) API key (free tier works) ##Any provider is supported
 - *(Optional)* A [Giphy](https://developers.giphy.com) API key for GIF reactions
