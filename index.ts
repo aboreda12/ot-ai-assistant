@@ -9,7 +9,7 @@ if (utilities.project != "openticket")
 
 declare module "#opendiscord-types" {
     export interface ODPluginManagerIds_Default {
-        "server-ai-chatbot": api.ODPlugin
+        "ot-ai-assistant": api.ODPlugin
     }
 }
 
@@ -79,7 +79,7 @@ type ChatMessage = { role: "user" | "assistant" | "system"; content: string }
 function loadConfig(): PluginConfig | null {
     try {
         const raw = fs.readFileSync(
-            path.resolve("./plugins/server-ai-chatbot/config.json"),
+            path.resolve("./plugins/ot-ai-assistant/config.json"),
             "utf-8"
         )
         const cfg = JSON.parse(raw) as PluginConfig
