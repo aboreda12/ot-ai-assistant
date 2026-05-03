@@ -40,8 +40,8 @@
 
     "knowledge": {
         "_comment":       "Paths to your knowledge files. These are read by the AI as context for every conversation and ticket. Edit the .md files in the knowledge/ folder with your server's real information.",
-        "serverInfoPath": "./plugins/server-ai-chatbot/knowledge/server-info.md",
-        "faqPath":        "./plugins/server-ai-chatbot/knowledge/faqs.md"
+        "serverInfoPath": "./plugins/ot-ai-assistant/knowledge/server-info.md",
+        "faqPath":        "./plugins/ot-ai-assistant/knowledge/faqs.md"
     },
 
     "ticketAI": {
